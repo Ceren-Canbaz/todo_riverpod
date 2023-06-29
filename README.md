@@ -1,6 +1,6 @@
-# todo_riverpod
+# no-tomorrow-app
 
-A new Flutter project.
+ A todo application developed with Flutter.
 
 ## Getting Started
 
